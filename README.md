@@ -7,7 +7,7 @@ The website highlights my journey as a Web Developer and provides an easy way fo
 
 ## 🌐 Live Website
 
-👉 https://riaz1407.github.io/
+👉 [https://riaz1407.github.io/](https://riaz1407.github.io/)
 
 ---
 
